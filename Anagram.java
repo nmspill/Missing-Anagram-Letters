@@ -36,7 +36,6 @@ public class Anagram {
                 oddCount++; 	
             }
         } 
-        System.out.println(oddCount);     
+        System.out.println(oddCount);      
 	}
-
 }
